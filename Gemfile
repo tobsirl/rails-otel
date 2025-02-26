@@ -48,5 +48,5 @@ end
 
 
 
-gem "opentelemetry-sdk", "~> 1.7"
+gem "opentelemetry-sdk", "~> 1.8"
 gem "opentelemetry-instrumentation-all", "~> 0.74.0"
